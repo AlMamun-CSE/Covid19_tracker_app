@@ -16,4 +16,4 @@ For Global data: https://coronavirus-19-api.herokuapp.com/all
 
 For Countries data: https://coronavirus-19-api.herokuapp.com/countries
 
-For Pakistan data: https://api.apify.com/v2/key-value-stores/QhfG8Kj6tVYMgud6R/records/LATEST?disableRedirect=true
+For Bangladesh data: https://api.apify.com/v2/key-value-stores/QhfG8Kj6tVYMgud6R/records/LATEST?disableRedirect=true
